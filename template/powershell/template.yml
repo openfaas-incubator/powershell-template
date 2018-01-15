@@ -1,0 +1,2 @@
+language: powershell
+fprocess: pwsh function/handler.ps1
